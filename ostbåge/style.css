@@ -1,0 +1,15 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.wrapper{
+    width: 100%;
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper img{
+    margin-top: -100px;
+    border-radius: 50%;
+}
